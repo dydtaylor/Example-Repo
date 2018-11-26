@@ -1,4 +1,3 @@
-GitHub test file
-I'm changing the file here
+This is a new text file
 
-This isn't the .md so nice formatting doesn't show up
+Changes are going to be tracked by Git
