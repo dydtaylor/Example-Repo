@@ -1,3 +1,1 @@
-This is a new text file
-
-Changes are going to be tracked by Git
+completely different and changed
